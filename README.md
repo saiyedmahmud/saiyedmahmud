@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saiyedmahmud
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...Error05
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
