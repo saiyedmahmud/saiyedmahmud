@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saiyedmahmud
-- 👀 I’m interested in ...Error05
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...404
+- 🌱 I’m currently learning ... 404
+- 💞️ I’m looking to collaborate on ...404
+- 📫 How to reach me ...404
 
 <!---
 saiyedmahmud/saiyedmahmud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
