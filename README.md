@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saiyedmahmud
-- 👀 I’m interested in techworld
-- 🌱 I’m currently learning python django js
+- 👀 
+- 🌱 
 - 📫 How to reach me saiyedmahmud05@gmail.com
 
 <!---
